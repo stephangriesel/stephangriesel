@@ -5,7 +5,7 @@
 🕹️  &nbsp;Probably busy building something<br>
 <br>
 💾 &nbsp;Currenty working on:
-Notion integration with React
+Notion integration with Netlify
 <br>
 
 <br>
