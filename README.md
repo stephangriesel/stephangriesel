@@ -4,11 +4,6 @@
 📡  &nbsp;Always curious and love exploring new technologies<br>
 🕹️  &nbsp;Probably busy building something<br>
 <br>
-💾 &nbsp;Currenty working on:
-Notion integration with Netlify
-<br>
-
-<br>
 💬 &nbsp;Connect with me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephangriesel/)
