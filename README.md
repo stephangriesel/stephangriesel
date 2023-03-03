@@ -2,7 +2,7 @@
 <br>
 💻  &nbsp;Full stack developer<br>
 📡  &nbsp;Always curious and love exploring new technologies<br>
-<br><br>
+<br>
 💬 &nbsp;Connect with me <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephangriesel/)
