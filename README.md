@@ -1,7 +1,7 @@
 ### Hi, my name is Stephan <img src="./hand-wave.gif" width="25" style="vertical-align:middle;">
 <br>
 💻  &nbsp;Full stack developer<br>
-📡  &nbsp;Always curious and love exploring new technologies<br>
+📡  &nbsp;Always curious<br>
 <br>
 💬 &nbsp;Connect with me <br>
 
