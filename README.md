@@ -2,6 +2,10 @@
 <br>
 💻  &nbsp;Full stack developer<br>
 📡  &nbsp;Always curious<br>
+<br><br>
+💬 &nbsp;Connect with me <br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephangriesel/)
+<br>
 <br>
 <br>
 <div>
@@ -14,8 +18,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
-<br>
-<br>
-💬 &nbsp;Connect with me <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephangriesel/)
 <br>
