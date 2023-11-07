@@ -1,4 +1,4 @@
-### <img src="./hand-wave.gif" width="25" style="vertical-align:middle;"> Hi, my name is Stephan
+### Hi, my name is Stephan <img src="https://github.com/stephangriesel/stephangriesel/blob/main/hand-wave.gif" width="25" style="vertical-align:middle;">
 <br>
 💻  &nbsp;Full stack developer<br>
 📡  &nbsp;Always curious<br>
