@@ -7,6 +7,7 @@
 💬 &nbsp;Connect with me <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephangriesel/)
 <br>
+<br>
 <div>
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
