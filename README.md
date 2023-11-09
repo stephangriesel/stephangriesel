@@ -1,5 +1,6 @@
-### Hi, my name is Stephan 👋
-<br>
+<div align="center">
+   <h1>Hi there, I'm <a href="https://www.stephangriesel.com">Stephan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <br>
 💻  &nbsp;Full stack developer<br>
 📡  &nbsp;Always curious<br>
 <br>
@@ -17,3 +18,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 <br>
+</div>
+
