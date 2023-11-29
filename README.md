@@ -13,7 +13,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original.svg" title="Jamstack" alt="Jamstack" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Jamstack" alt="Jamstack" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://devicons.railway.app/i/flask-light.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
