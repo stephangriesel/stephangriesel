@@ -5,7 +5,7 @@
 <br>
 <br>
 <div>
-   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
+   <img src="https://astro.build/assets/press/astro-icon-light-gradient.png" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
